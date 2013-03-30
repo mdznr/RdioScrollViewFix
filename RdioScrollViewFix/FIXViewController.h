@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FIXViewController : UIViewController
+@interface FIXViewController : UIViewController <UIScrollViewDelegate>
+
+@property (strong, nonatomic) IBOutlet UIScrollView *scrollView;
 
 @end

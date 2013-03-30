@@ -18,6 +18,9 @@
 		C933F8951706778E007B1760 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C933F8941706778E007B1760 /* Default-568h@2x.png */; };
 		C933F8981706778E007B1760 /* FIXViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C933F8971706778E007B1760 /* FIXViewController.m */; };
 		C933F89B1706778E007B1760 /* FIXViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C933F8991706778E007B1760 /* FIXViewController.xib */; };
+		C933F8A317067B53007B1760 /* AlbumArtPlaceholder.png in Resources */ = {isa = PBXBuildFile; fileRef = C933F8A117067B53007B1760 /* AlbumArtPlaceholder.png */; };
+		C933F8A417067B53007B1760 /* AlbumArtPlaceholder@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C933F8A217067B53007B1760 /* AlbumArtPlaceholder@2x.png */; };
+		C9EA3A1A170697A100AB18A8 /* ScrollViewExample@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C9EA3A19170697A100AB18A8 /* ScrollViewExample@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +40,9 @@
 		C933F8961706778E007B1760 /* FIXViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FIXViewController.h; sourceTree = "<group>"; };
 		C933F8971706778E007B1760 /* FIXViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FIXViewController.m; sourceTree = "<group>"; };
 		C933F89A1706778E007B1760 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/FIXViewController.xib; sourceTree = "<group>"; };
+		C933F8A117067B53007B1760 /* AlbumArtPlaceholder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AlbumArtPlaceholder.png; sourceTree = "<group>"; };
+		C933F8A217067B53007B1760 /* AlbumArtPlaceholder@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AlbumArtPlaceholder@2x.png"; sourceTree = "<group>"; };
+		C9EA3A19170697A100AB18A8 /* ScrollViewExample@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ScrollViewExample@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +94,9 @@
 				C933F8961706778E007B1760 /* FIXViewController.h */,
 				C933F8971706778E007B1760 /* FIXViewController.m */,
 				C933F8991706778E007B1760 /* FIXViewController.xib */,
+				C933F8A117067B53007B1760 /* AlbumArtPlaceholder.png */,
+				C933F8A217067B53007B1760 /* AlbumArtPlaceholder@2x.png */,
+				C9EA3A19170697A100AB18A8 /* ScrollViewExample@2x.png */,
 				C933F8851706778E007B1760 /* Supporting Files */,
 			);
 			path = RdioScrollViewFix;
@@ -164,6 +173,9 @@
 				C933F8931706778E007B1760 /* Default@2x.png in Resources */,
 				C933F8951706778E007B1760 /* Default-568h@2x.png in Resources */,
 				C933F89B1706778E007B1760 /* FIXViewController.xib in Resources */,
+				C933F8A317067B53007B1760 /* AlbumArtPlaceholder.png in Resources */,
+				C933F8A417067B53007B1760 /* AlbumArtPlaceholder@2x.png in Resources */,
+				C9EA3A1A170697A100AB18A8 /* ScrollViewExample@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +311,7 @@
 				C933F8A01706778E007B1760 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
